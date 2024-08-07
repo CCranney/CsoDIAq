@@ -1,4 +1,4 @@
-RelativeIntensity,FragmentMz,ModifiedPeptide,LabeledPeptide,StrippedPeptide,PrecursorCharge,PrecursorMz,iRT,proteotypicity,FragmentNumber,FragmentType,FragmentCharge,FragmentLossType
+RelativeFragmentIntensity,FragmentMz,ModifiedPeptide,LabeledPeptide,StrippedPeptide,PrecursorCharge,PrecursorMz,iRT,proteotypicity,FragmentNumber,FragmentType,FragmentCharge,FragmentLossType
 1.0,175.11895751953125,_MMPAAALIM[Oxidation (O)]R_,MMPAAALIMR,MMPAAALIMR,3,374.1867597566666,82.04280090332031,2.5292093753814697,1,y,1,noloss
 0.412596195936203,322.15435791015625,_MMPAAALIM[Oxidation (O)]R_,MMPAAALIMR,MMPAAALIMR,3,374.1867597566666,82.04280090332031,2.5292093753814697,2,y,1,noloss
 0.19230689108371735,263.0882568359375,_MMPAAALIM[Oxidation (O)]R_,MMPAAALIMR,MMPAAALIMR,3,374.1867597566666,82.04280090332031,2.5292093753814697,2,b,1,noloss

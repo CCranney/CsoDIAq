@@ -192,7 +192,7 @@ def _determine_library_source_from_file(filePath) -> str:
             return "spectrast"
         elif "ProteinId" in columns:
             return "fragpipe"
-        elif "RelativeIntensity" in columns:
+        elif "RelativeFragmentIntensity" in columns:
             return "prosit"
         else:
             raise ValueError(

@@ -41,7 +41,7 @@ oldColumnsProsit = [
     "PrecursorMz",
     "LabeledPeptide",
     "FragmentMz",
-    "RelativeIntensity",
+    "RelativeFragmentIntensity",
     "PrecursorCharge",
     "StrippedPeptide",
     "FragmentLossType",
